@@ -1,6 +1,6 @@
 <div align="center">
 
-#  WWDC 스터디 : 떱떱해 (WWHigh)
+#  SOPT WWDC 스터디
 
 
 
