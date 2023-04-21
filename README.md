@@ -22,5 +22,5 @@
 ### [ARC in Swift: Basics and beyond](https://developer.apple.com/videos/play/wwdc2021/10216/?time=1190)
 - [영상정리 및 요약 링크(의성)](https://github.com/SOPT-HIG-WWDC/WWDC/issues/1)
 - [영상정리 및 요약 링크(세진)](https://lsj8706.tistory.com/22)
-- [영상정리 및 요약 링크(민재)]()
-- [영상정리 및 요약 링크(준혁)]()
+- [영상정리 및 요약 링크(민재)](https://github.com/SOPT-HIG-WWDC/WWDC/issues/3)
+- [영상정리 및 요약 링크(준혁)](https://preyhong.tistory.com/3)
