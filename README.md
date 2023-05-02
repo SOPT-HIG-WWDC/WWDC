@@ -24,3 +24,17 @@
 - [영상정리 및 요약 링크(세진)](https://lsj8706.tistory.com/22)
 - [영상정리 및 요약 링크(민재)](https://github.com/SOPT-HIG-WWDC/WWDC/issues/3)
 - [영상정리 및 요약 링크(준혁)](https://preyhong.tistory.com/3)
+
+## 2주차
+### [Embrace Swift generics]()
+- [영상정리 및 요약 링크(의성)](https://github.com/SOPT-HIG-WWDC/WWDC/issues/5)
+- [영상정리 및 요약 링크(세진)](https://lsj8706.tistory.com/6)
+- [영상정리 및 요약 링크(민재)](https://complex-rook-29b.notion.site/WWDC22-Embrace-Swift-generics-27000d8eeebe49e7b9de860cb9bbc56a)
+- [영상정리 및 요약 링크(준혁)](https://preyhong.tistory.com/5)
+
+## 3주차
+### [Swift의 디자인 프로토콜 인터페이스]()
+- [영상정리 및 요약 링크(의성)](https://github.com/SOPT-HIG-WWDC/WWDC/issues/11)
+- [영상정리 및 요약 링크(세진)](https://lsj8706.tistory.com/25)
+- [영상정리 및 요약 링크(민재)](https://codingmon.tistory.com/48)
+- [영상정리 및 요약 링크(준혁)](https://velog.io/@lms7802/WWDC-Design-protocol-interface-in-Swift)
