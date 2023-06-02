@@ -38,3 +38,17 @@
 - [영상정리 및 요약 링크(세진)](https://lsj8706.tistory.com/25)
 - [영상정리 및 요약 링크(민재)](https://codingmon.tistory.com/48)
 - [영상정리 및 요약 링크(준혁)](https://velog.io/@lms7802/WWDC-Design-protocol-interface-in-Swift)
+
+## 4주차, 5주차
+### [Understanding Swift Performance]()
+- [영상정리 및 요약 링크(의성)1/2](https://github.com/SOPT-HIG-WWDC/WWDC/issues/14)
+- [영상정리 및 요약 링크(의성)2/2](https://github.com/SOPT-HIG-WWDC/WWDC/issues/17)
+- [영상정리 및 요약 링크(세진)1/2,2/2](https://lsj8706.tistory.com/17)
+- [영상정리 및 요약 링크(민재)1/2](https://codingmon.tistory.com/50)
+- [영상정리 및 요약 링크(민재)2/2](https://complex-rook-29b.notion.site/Understanding-Swift-Performance-2-db18e5744bb545f4868c8c0311677136)
+
+## 6주차
+### [Getting to Know Swift Package Manager]()
+- [영상정리 및 요약 링크(의성)](https://github.com/SOPT-HIG-WWDC/WWDC/issues/19)
+- [영상정리 및 요약 링크(세진)](https://lsj8706.tistory.com/29)
+- [영상정리 및 요약 링크(민재)]()
