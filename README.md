@@ -51,4 +51,10 @@
 ### [Getting to Know Swift Package Manager]()
 - [영상정리 및 요약 링크(의성)](https://github.com/SOPT-HIG-WWDC/WWDC/issues/19)
 - [영상정리 및 요약 링크(세진)](https://lsj8706.tistory.com/29)
-- [영상정리 및 요약 링크(민재)]()
+- [영상정리 및 요약 링크(민재)](https://complex-rook-29b.notion.site/Getting-to-Know-Swift-Package-Manager-b9389140b21b4992a5e468ac732cfaae)
+
+## 7주차
+### [Creating Swift Packages]()
+- [영상정리 및 요약 링크(의성)](https://github.com/SOPT-HIG-WWDC/WWDC/issues/22)
+- [영상정리 및 요약 링크(세진)](https://lsj8706.tistory.com/31)
+- [영상정리 및 요약 링크(민재)](https://complex-rook-29b.notion.site/Creating-Swift-Packages-36473c13c3724452a88c8120d271efe7)
